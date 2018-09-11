@@ -1,0 +1,31 @@
+=pod
+
+=head1 koha-pluginstarter
+
+A script that will help you set up a skeleton for your new Koha plugin.
+
+=head1 Documentation
+
+Run "perldoc start.pl" for more documentation.
+
+=head1 Contributions
+
+This is just a very early start. It is based heavily on the Kitchen Sink
+Plugin L<https://github.com/bywatersolutions/koha-plugin-kitchen-sink> from
+ByWater Solutions. In fact, the module that is generated has its code lifted entirely
+from that sample plugin. This should be changed over time.
+
+Want to contribute? Pull requests will be accepted without too much fuzz, and
+if you are a known Koha contributor you are highly likely to get commit
+access to the repo if you ask fr it.
+
+=head1 About Koha
+
+Koha is the first free software library automation package. In use worldwide,
+its development is steered by a growing community of users collaborating to
+achieve their technology goals. Koha's feature set continues to evolve and
+expand to meet the needs of its user base.
+
+See L<https://koha-community.org/> for more.
+
+=cut

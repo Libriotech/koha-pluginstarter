@@ -1,0 +1,11 @@
+=pod
+
+=head1 [% name | upper %]
+
+[% description %]
+
+=head1 AUTHOR
+
+[% author_name %] <[% author_email %]>
+
+=cut

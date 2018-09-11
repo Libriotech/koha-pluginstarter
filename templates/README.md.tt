@@ -1,0 +1,7 @@
+# [% name | upper %]
+
+[% description %]
+
+# AUTHOR
+
+[% author_name %] <[% author_email %]>
